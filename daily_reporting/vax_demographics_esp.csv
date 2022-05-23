@@ -1,22 +1,22 @@
 "Grupo","Metrico","Al menos 1 dosis","Serie original de vacunas","Dosis de refuerzo 1","Dosis de refuerzo 2"
 "Edad","0-9",32,23,0,0
 "Edad","10-19",114,92,32,1
-"Edad","20-29",89,73,20,1
+"Edad","20-29",89,73,21,1
 "Edad","30-39",85,76,32,1
 "Edad","40-49",122,109,56,3
 "Edad","50-59",120,108,62,11
 "Edad","60-69",114,105,66,24
 "Edad","70-79",85,78,60,25
-"Edad","80+",53,49,37,17
+"Edad","80+",52,49,36,17
 "Raza/Etnicidad","asiatica/NHPI",93,77,30,4
 "Raza/Etnicidad","negra/afroamericana",62,54,16,1
 "Raza/Etnicidad","hispanica/Latinx",51,44,15,2
 "Raza/Etnicidad","nativa americana/india americana",112,92,26,2
 "Raza/Etnicidad","blanca",91,82,42,8
-"Sexo","Mujeres",97.3,85,43.3,7.6
-"Sexo","Hombres",92.2,80.6,35.9,6.1
-"Codigo de Zip","80424",100,85,40,6
-"Codigo de Zip","80435",111,97,43,6
-"Codigo de Zip","80443",100,87,44,8
+"Sexo","Mujeres",97.3,85,43.3,7.8
+"Sexo","Hombres",92.2,80.6,35.9,6.2
+"Codigo de Zip","80424",100,85,41,7
+"Codigo de Zip","80435",110,97,43,7
+"Codigo de Zip","80443",100,88,44,8
 "Codigo de Zip","80497",200,184,83,12
 "Codigo de Zip","80498",73,66,33,7
