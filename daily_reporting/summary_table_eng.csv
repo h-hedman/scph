@@ -1,8 +1,8 @@
-"type_eng","value"
-"Confirmed Positive Tests",9579
-"Probable Cases",593
-"Total Cases",10172
-"Hospitalizations",238
-"Total Tested",104692
-"Outbreaks",225
-"Deaths Among Cases",14
+"type_eng","value","date_uploaded"
+"Confirmed Positive Tests",9722,2022-05-31
+"Probable Cases",594,2022-05-31
+"Total Cases",10316,2022-05-31
+"Hospitalizations",238,2022-05-31
+"Total Tested",105049,2022-05-31
+"Outbreaks",225,2022-05-31
+"Deaths Among Cases",14,2022-05-31
