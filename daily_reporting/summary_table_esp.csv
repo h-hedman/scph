@@ -1,8 +1,8 @@
-"type_esp","value"
-"Pruebas positivas confirmadas",9722
-"Casos probables",594
-"Total de casos",10316
-"Hospitalizaciones",238
-"Total de pruebas",105049
-"Brotes",225
-"Muertes entre casos",14
+"type_esp","value","date_uploaded"
+"Pruebas positivas confirmadas",9722,2022-06-01
+"Casos probables",594,2022-06-01
+"Total de casos",10316,2022-06-01
+"Hospitalizaciones",167,2022-06-01
+"Total de pruebas",105049,2022-06-01
+"Brotes",225,2022-06-01
+"Muertes entre casos",14,2022-06-01
