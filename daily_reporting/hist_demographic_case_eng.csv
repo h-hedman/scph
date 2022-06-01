@@ -1,16 +1,16 @@
-"Group","Metric","Number of Cases"
-"Age Group","0-9",659
-"Age Group","10-19",1041
-"Age Group","20-29",2784
-"Age Group","30-39",2227
-"Age Group","40-49",1419
-"Age Group","50-59",1108
-"Age Group","60-69",698
-"Age Group","70-79",279
-"Age Group","80+",39
-"Race/Ethnicity","Hispanic/Latinx",2107
-"Race/Ethnicity","Other",334
-"Race/Ethnicity","Unknown",1621
-"Race/Ethnicity","White",6192
-"Sex","Female",4803
-"Sex","Male",5449
+"Group","Metric","Number of Cases","date_uploaded"
+"Age Group","0-9",659,2022-06-01
+"Age Group","10-19",1041,2022-06-01
+"Age Group","20-29",2784,2022-06-01
+"Age Group","30-39",2227,2022-06-01
+"Age Group","40-49",1419,2022-06-01
+"Age Group","50-59",1108,2022-06-01
+"Age Group","60-69",698,2022-06-01
+"Age Group","70-79",279,2022-06-01
+"Age Group","80+",39,2022-06-01
+"Race/Ethnicity","Hispanic/Latinx",2107,2022-06-01
+"Race/Ethnicity","Other",334,2022-06-01
+"Race/Ethnicity","Unknown",1621,2022-06-01
+"Race/Ethnicity","White",6192,2022-06-01
+"Sex","Female",4803,2022-06-01
+"Sex","Male",5449,2022-06-01
