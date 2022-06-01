@@ -1,0 +1,25 @@
+<! -- Example HTML Code Chunk for SCPH Website --> 
+
+<h2>7-day Cumulative Incidence Rate</h2>
+
+<p>This chart shows the number of new positive cases among Summit County residents per a population of 100,000 over the previous 7 days.</p>
+<div id="ifPct" style="display:block;">
+	<iframe title="Percent of positive tests" id="datawrapper-chart-lYK6C" src="https://datawrapper.dwcdn.net/VlWVu/32/" scrolling="no" frameborder="0" style="width: 0px; border: none; height: 400.986px; min-width: 100% !important;" height="500"></iframe>
+	<script type="text/javascript">
+		! function()
+		{
+			"use strict";
+			window.addEventListener("message", function(a)
+			{
+				if (void 0 !== a.data["datawrapper-height"])
+					for (var e in a.data["datawrapper-height"])
+					{
+						var t = document.getElementById("datawrapper-chart-" + e) || document.querySelector("iframe[src*='" + e + "']"); t && (t.style.height = a.data["datawrapper-height"][e] + "px")
+					}
+			})
+		}();
+
+	</script>
+</div>
+
+<p><strong>Goal:</strong> Summit County must have 100 or fewer positive cases per 100,000 over the previous 7-day period.&nbsp;</p>
