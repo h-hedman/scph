@@ -1,22 +1,22 @@
 "Grupo","Metrico","Al menos 1 dosis","Serie original de vacunas","Dosis de refuerzo 1","Dosis de refuerzo 2"
 "Edad","0-9",32,23,0,0
-"Edad","10-19",114,92,32,1
-"Edad","20-29",89,73,21,1
-"Edad","30-39",85,76,32,1
-"Edad","40-49",122,109,56,3
-"Edad","50-59",120,108,62,13
-"Edad","60-69",114,105,66,27
-"Edad","70-79",84,78,60,28
-"Edad","80+",52,48,37,18
-"Raza/Etnicidad","asiatica/NHPI",92,77,30,4
-"Raza/Etnicidad","negra/afroamericana",62,54,16,1
-"Raza/Etnicidad","hispanica/Latinx",51,45,15,2
-"Raza/Etnicidad","nativa americana/india americana",112,92,26,2
-"Raza/Etnicidad","blanca",91,82,42,9
-"Sexo","Mujeres",97.3,85,43.5,8.7
-"Sexo","Hombres",92.2,80.6,36.1,7
+"Edad","10-19",112,91,32,1
+"Edad","20-29",86,71,21,1
+"Edad","30-39",84,75,32,1
+"Edad","40-49",120,108,56,3
+"Edad","50-59",118,107,62,13
+"Edad","60-69",113,104,66,27
+"Edad","70-79",83,77,60,28
+"Edad","80+",51,47,36,18
+"Raza/Etnicidad","asiatica/NHPI",91,76,30,4
+"Raza/Etnicidad","negra/afroamericana",61,53,16,1
+"Raza/Etnicidad","hispanica/Latinx",51,44,15,2
+"Raza/Etnicidad","nativa americana/india americana",108,92,26,2
+"Raza/Etnicidad","blanca",89,81,42,9
+"Sexo","Mujeres",95.7,84.1,43.3,8.7
+"Sexo","Hombres",90.3,79.4,35.9,7
 "Codigo de Zip","80424",100,85,41,7
-"Codigo de Zip","80435",110,97,43,7
-"Codigo de Zip","80443",100,87,44,9
-"Codigo de Zip","80497",200,184,83,14
+"Codigo de Zip","80435",106,94,42,7
+"Codigo de Zip","80443",99,86,44,9
+"Codigo de Zip","80497",199,183,83,14
 "Codigo de Zip","80498",73,66,33,8
