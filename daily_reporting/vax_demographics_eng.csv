@@ -7,14 +7,14 @@
 "Age","50-59",119,107,62,18
 "Age","60-69",114,105,67,35
 "Age","70-79",85,78,60,33
-"Age","80+",52,48,37,21
-"Race/Ethnicity","Asian/NHPI",93,77,31,6
+"Age","80+",52,49,37,21
+"Race/Ethnicity","Asian/NHPI",93,77,32,6
 "Race/Ethnicity","Black/African American",62,54,16,1
 "Race/Ethnicity","Hispanic/Latinx",51,45,16,2
 "Race/Ethnicity","Native American/Alaskan Native",111,90,27,6
 "Race/Ethnicity","White",91,82,42,11
 "Sex","Female",97.3,85.1,44,10.9
-"Sex","Male",92.2,80.6,36.5,8.9
+"Sex","Male",92.2,80.6,36.5,9
 "Zip Code","80424",100,85,41,9
 "Zip Code","80435",111,97,43,10
 "Zip Code","80443",100,87,45,12
