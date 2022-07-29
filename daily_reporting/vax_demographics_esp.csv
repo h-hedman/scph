@@ -4,7 +4,7 @@
 "Edad","20-29",89,73,21,1
 "Edad","30-39",86,76,32,1
 "Edad","40-49",122,109,57,5
-"Edad","50-59",119,107,62,23
+"Edad","50-59",119,107,63,23
 "Edad","60-69",114,105,67,39
 "Edad","70-79",84,78,61,36
 "Edad","80+",52,48,37,22
@@ -13,10 +13,10 @@
 "Raza/Etnicidad","hispanica/Latinx",52,45,16,2
 "Raza/Etnicidad","nativa americana/india americana",110,89,29,6
 "Raza/Etnicidad","blanca",91,82,43,13
-"Sexo","Mujeres",97.6,85.3,44.6,12.3
-"Sexo","Hombres",92.3,80.6,36.8,10.1
+"Sexo","Mujeres",97.7,85.3,44.6,12.3
+"Sexo","Hombres",92.3,80.7,36.8,10.1
 "Codigo de Zip","80424",101,86,42,11
 "Codigo de Zip","80435",111,97,44,11
-"Codigo de Zip","80443",101,88,45,13
-"Codigo de Zip","80497",201,184,85,20
+"Codigo de Zip","80443",101,88,46,14
+"Codigo de Zip","80497",200,184,84,19
 "Codigo de Zip","80498",73,66,34,11
