@@ -1,22 +1,22 @@
 "Group","Metric","At least 1 dose","Original vaccine series","Booster dose 1","Booster dose 2"
-"Age","0-9",33,24,3,0
-"Age","10-19",113,92,36,1
-"Age","20-29",87,72,21,1
-"Age","30-39",84,75,32,1
-"Age","40-49",120,108,57,5
-"Age","50-59",118,106,62,23
-"Age","60-69",113,104,67,40
-"Age","70-79",83,77,61,37
-"Age","80+",51,47,36,22
-"Race/Ethnicity","Asian/NHPI",93,77,32,7
-"Race/Ethnicity","Black/African American",61,53,16,1
-"Race/Ethnicity","Hispanic/Latinx",51,45,16,2
-"Race/Ethnicity","Native American/Alaskan Native",106,89,29,6
-"Race/Ethnicity","White",89,81,43,13
-"Sex","Female",96.2,84.6,44.6,12.6
-"Sex","Male",90.6,79.6,36.8,10.4
-"Zip Code","80424",100,85,42,11
-"Zip Code","80435",106,95,44,11
-"Zip Code","80443",99,87,45,14
-"Zip Code","80497",199,183,85,20
+"Age","0-9",34,24,3,0
+"Age","10-19",115,93,36,1
+"Age","20-29",90,73,21,1
+"Age","30-39",86,76,32,1
+"Age","40-49",122,109,57,5
+"Age","50-59",119,107,63,24
+"Age","60-69",114,105,68,40
+"Age","70-79",84,78,61,37
+"Age","80+",52,48,36,22
+"Race/Ethnicity","Asian/NHPI",95,78,32,7
+"Race/Ethnicity","Black/African American",62,54,16,1
+"Race/Ethnicity","Hispanic/Latinx",52,45,16,2
+"Race/Ethnicity","Native American/Alaskan Native",110,89,29,6
+"Race/Ethnicity","White",91,82,43,13
+"Sex","Female",97.8,85.4,44.9,12.7
+"Sex","Male",92.5,80.7,37,10.5
+"Zip Code","80424",101,86,42,11
+"Zip Code","80435",111,97,44,11
+"Zip Code","80443",101,88,46,14
+"Zip Code","80497",200,184,85,20
 "Zip Code","80498",73,66,34,11
