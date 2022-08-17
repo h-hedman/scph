@@ -1,6 +1,6 @@
 "Group","Metric","At least 1 dose","Original vaccine series","Booster dose 1","Booster dose 2"
-"Age","0-9",34,24,3,0
-"Age","10-19",115,93,36,1
+"Age","0-9",34,25,3,0
+"Age","10-19",115,93,37,1
 "Age","20-29",90,73,21,1
 "Age","30-39",86,76,32,1
 "Age","40-49",122,109,57,5
@@ -13,10 +13,10 @@
 "Race/Ethnicity","Hispanic/Latinx",52,45,16,2
 "Race/Ethnicity","Native American/Alaskan Native",110,89,29,6
 "Race/Ethnicity","White",91,82,43,13
-"Sex","Female",97.9,85.5,44.9,12.8
+"Sex","Female",97.9,85.5,45,12.8
 "Sex","Male",92.5,80.8,37.1,10.6
 "Zip Code","80424",101,86,42,11
-"Zip Code","80435",111,97,44,11
+"Zip Code","80435",111,97,44,12
 "Zip Code","80443",101,88,46,14
 "Zip Code","80497",200,184,86,21
 "Zip Code","80498",73,66,34,11
