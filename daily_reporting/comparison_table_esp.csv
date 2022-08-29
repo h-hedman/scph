@@ -1,6 +1,6 @@
 "Metrico","Promedio (7 dias anteriores)","Promedio (28 dias anteriores)","Tendencia","date_uploaded"
-"Positividad de la prueba",23.1,22,"Creciente",2022-08-25
-"Casos confirmados",6,5.2,"Creciente",2022-08-25
-"Hospitalizations",0,0,"Ninguno",2022-08-25
-"Muertes",0,0,"Ninguno",2022-08-25
-"Brotes",0,0,"Ninguno",2022-08-25
+"Positividad de la prueba",22.1,22.2,"Decreciente",2022-08-29
+"Casos confirmados",3.9,5,"Decreciente",2022-08-29
+"Hospitalizations",0,0,"Ninguno",2022-08-29
+"Muertes",0,0,"Ninguno",2022-08-29
+"Brotes",0,0,"Ninguno",2022-08-29
