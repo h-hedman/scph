@@ -1,7 +1,7 @@
 "Grupo","Metrico","Al menos 1 dosis","Serie original de vacunas","Dosis de refuerzo 1","Dosis de refuerzo 2"
 "Edad","0-9",36,26,3,0
 "Edad","10-19",113,90,37,1
-"Edad","20-29",80,61,22,1
+"Edad","20-29",80,61,21,1
 "Edad","30-39",77,64,32,1
 "Edad","40-49",111,94,57,5
 "Edad","50-59",112,96,63,21
@@ -18,5 +18,5 @@
 "Codigo de Zip","80424",94,76,42,10
 "Codigo de Zip","80435",103,85,44,11
 "Codigo de Zip","80443",94,77,46,13
-"Codigo de Zip","80497",187,166,86,19
+"Codigo de Zip","80497",186,165,86,19
 "Codigo de Zip","80498",69,60,34,10
