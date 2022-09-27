@@ -2,15 +2,15 @@
 "Grupo de Edad","0-9",1
 "Grupo de Edad","10-19",3
 "Grupo de Edad","20-29",8
-"Grupo de Edad","30-39",14
-"Grupo de Edad","40-49",5
-"Grupo de Edad","50-59",9
+"Grupo de Edad","30-39",15
+"Grupo de Edad","40-49",6
+"Grupo de Edad","50-59",10
 "Grupo de Edad","60-69",16
 "Grupo de Edad","70-79",14
 "Grupo de Edad","80+",3
 "raza/etnicidad","hispano/latinx",10
-"raza/etnicidad","otros",5
+"raza/etnicidad","otros",6
 "raza/etnicidad","desconocido",12
-"raza/etnicidad","blanco",46
-"Sexo","Mujeres",38
-"Sexo","Hombres",35
+"raza/etnicidad","blanco",48
+"Sexo","Mujeres",40
+"Sexo","Hombres",36
