@@ -2,15 +2,15 @@
 "Age Group","0-9",1
 "Age Group","10-19",3
 "Age Group","20-29",8
-"Age Group","30-39",13
+"Age Group","30-39",15
 "Age Group","40-49",7
-"Age Group","50-59",14
-"Age Group","60-69",15
-"Age Group","70-79",13
+"Age Group","50-59",13
+"Age Group","60-69",17
+"Age Group","70-79",15
 "Age Group","80+",4
 "Race/Ethnicity","Hispanic/Latinx",9
-"Race/Ethnicity","Other",4
-"Race/Ethnicity","Unknown",18
-"Race/Ethnicity","White",47
-"Sex","Female",40
-"Sex","Male",38
+"Race/Ethnicity","Other",5
+"Race/Ethnicity","Unknown",12
+"Race/Ethnicity","White",57
+"Sex","Female",41
+"Sex","Male",42
