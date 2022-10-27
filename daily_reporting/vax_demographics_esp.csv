@@ -1,6 +1,6 @@
 "Grupo","Metrico","Al menos 1 dosis","Serie original de vacunas","Dosis de refuerzo 1","Dosis de refuerzo 2","NA"
-"Edad","0-9",41,28,4,0,0.3
-"Edad","10-19",115,94,38,1,4
+"Edad","0-9",41,28,4,0,0.5
+"Edad","10-19",115,94,38,1,4.1
 "Edad","20-29",90,73,24,1,3.1
 "Edad","30-39",86,76,36,2,5.2
 "Edad","40-49",121,108,63,6,10.9
@@ -13,7 +13,7 @@
 "Raza/Etnicidad","hispanica/Latinx",52,46,19,3,2.5
 "Raza/Etnicidad","nativa americana/india americana",104,86,30,5,6
 "Raza/Etnicidad","blanca",91,82,47,13,12.4
-"Sexo","Mujeres",102.3,89,51.6,13.7,13.3
+"Sexo","Mujeres",102.3,89,51.6,13.7,13.4
 "Sexo","Hombres",96.7,84.1,43.1,11.3,10.3
 "Codigo de Zip","80424",101,86,47,11,10.6
 "Codigo de Zip","80435",111,97,49,12,11.3
