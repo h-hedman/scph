@@ -1,16 +1,16 @@
 "Group","Metric","Number of Cases"
 "Age Group","0-9",3
-"Age Group","10-19",5
+"Age Group","10-19",3
 "Age Group","20-29",8
-"Age Group","30-39",15
-"Age Group","40-49",15
+"Age Group","30-39",14
+"Age Group","40-49",14
 "Age Group","50-59",21
-"Age Group","60-69",16
-"Age Group","70-79",13
+"Age Group","60-69",18
+"Age Group","70-79",12
 "Age Group","80+",1
-"Race/Ethnicity","Hispanic/Latinx",5
+"Race/Ethnicity","Hispanic/Latinx",6
 "Race/Ethnicity","Other",4
-"Race/Ethnicity","Unknown",19
+"Race/Ethnicity","Unknown",15
 "Race/Ethnicity","White",69
-"Sex","Female",49
+"Sex","Female",46
 "Sex","Male",48
