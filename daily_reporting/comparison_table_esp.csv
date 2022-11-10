@@ -1,6 +1,6 @@
 "Metrico","Promedio (7 dias anteriores)","Promedio (28 dias anteriores)","Tendencia","date_uploaded"
-"Positividad de la prueba",19.1,18.1,"Creciente",2022-11-09
-"Casos confirmados",4.3,3.7,"Creciente",2022-11-09
-"Hospitalizations",0.1,0.1,"Ninguno",2022-11-09
-"Muertes",0,0,"Ninguno",2022-11-09
-"Brotes",0,0,"Ninguno",2022-11-09
+"Positividad de la prueba",19.9,18.2,"Creciente",2022-11-10
+"Casos confirmados",4.9,3.7,"Creciente",2022-11-10
+"Hospitalizations",0,0.1,"Decreciente",2022-11-10
+"Muertes",0,0,"Ninguno",2022-11-10
+"Brotes",0,0,"Ninguno",2022-11-10
