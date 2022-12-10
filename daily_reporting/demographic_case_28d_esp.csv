@@ -1,16 +1,16 @@
 "Grupo","Metrico","Casos"
-"Grupo de Edad","0-9",16
-"Grupo de Edad","10-19",13
-"Grupo de Edad","20-29",20
-"Grupo de Edad","30-39",30
-"Grupo de Edad","40-49",25
-"Grupo de Edad","50-59",22
-"Grupo de Edad","60-69",38
-"Grupo de Edad","70-79",14
+"Grupo de Edad","0-9",13
+"Grupo de Edad","10-19",14
+"Grupo de Edad","20-29",17
+"Grupo de Edad","30-39",28
+"Grupo de Edad","40-49",23
+"Grupo de Edad","50-59",20
+"Grupo de Edad","60-69",35
+"Grupo de Edad","70-79",13
 "Grupo de Edad","80+",3
-"raza/etnicidad","hispano/latinx",23
+"raza/etnicidad","hispano/latinx",24
 "raza/etnicidad","otros",5
-"raza/etnicidad","desconocido",60
-"raza/etnicidad","blanco",93
-"Sexo","Mujeres",84
-"Sexo","Hombres",97
+"raza/etnicidad","desconocido",56
+"raza/etnicidad","blanco",81
+"Sexo","Mujeres",76
+"Sexo","Hombres",90
