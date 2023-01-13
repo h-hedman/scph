@@ -1,6 +1,6 @@
 "Metrico","Promedio (7 dias anteriores)","Promedio (28 dias anteriores)","Tendencia","date_uploaded"
-"Positividad de la prueba",25,22.3,"Creciente",2023-01-05
-"Casos confirmados",4.1,4,"Creciente",2023-01-05
-"Hospitalizations",0.3,0.2,"Creciente",2023-01-05
-"Muertes",0,0,"Ninguno",2023-01-05
-"Brotes",0,0,"Ninguno",2023-01-05
+"Positividad de la prueba",19.9,22.9,"Decreciente",2023-01-12
+"Casos confirmados",2.3,3.6,"Decreciente",2023-01-12
+"Hospitalizations",0.1,0.1,"Ninguno",2023-01-12
+"Muertes",0,0,"Ninguno",2023-01-12
+"Brotes",0,0,"Ninguno",2023-01-12
