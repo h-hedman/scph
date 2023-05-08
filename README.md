@@ -1,6 +1,8 @@
-# SCPH
-COVID-19 Data Analytics for Summit County Public Health
-This repository contains data on SARS-CoV-2 (COVID-19) in Summit County, Colorado updated daily. You can view visualizations of these data on the Summit County Public Health COVID-19 dashboards. 
+# Data Analytics for Summit County Public Health (Frisco, CO)
 
-###### **COVID-19 Dashboard**
-https://www.summitcountyco.gov/1572/COVID-19-Dashboard
+* **Purpose** 
+  - Host public-facing data and reports for SCPH website dashboards 
+ 
+* **Data Dashboards** 
+  - SCPH COVID-19 Dashboard: https://www.summitcountyco.gov/1579/Summit-Countys-COVID-19-Weekly-Data
+  
