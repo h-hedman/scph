@@ -1,4 +1,4 @@
-# Data Analytics for Summit County Public Health (Frisco, CO)
+# Data Analytics for Summit County Local Public Health Agency (Summit County, Colorado)
 
 * **Purpose** 
   - Host public-facing data and reports for SCPH website dashboards 
