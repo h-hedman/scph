@@ -1,4 +1,4 @@
-# Data Analytics for Summit County Local Public Health Agency (Summit County, Colorado)
+# Analytics for Summit County Local Public Health Agency (Summit County, Colorado)
 
 * **Purpose** 
   - Public-facing data and reports for Summit County residents
