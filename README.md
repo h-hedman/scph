@@ -1,12 +1,13 @@
 # Summit County Public Health Analytics
 
-This repository contains public-facing data products and reports developed for the Summit County Public Health Agency in Summit County, Colorado. The work supports community transparency and informs local residents about public health trends and outcomes.
-
-## Purpose
-
-- Provide accessible and accurate data for Summit County residents  
-- Maintain up-to-date reporting through interactive public dashboards
+Data products, surveillance pipelines, and public-facing reports developed in partnership with the Summit County Public Health Agency (Summit County, CO). This repository supports community transparency and local decision-making across a range of health outcomes domains.
 
 ## Public Dashboards
 
-- [Summit County COVID-19 Weekly Data Dashboard](https://www.summitcountyco.gov/1579/Summit-Countys-COVID-19-Weekly-Data)
+| Dashboard | Description |
+|---|---|
+| [COVID-19 Weekly Data Dashboard](https://www.summitcountyco.gov/1579/Summit-Countys-COVID-19-Weekly-Data) | Weekly COVID-19 trends, hospitalizations, and community metrics |
+
+## Data Modernization Initiative
+
+Expanding reporting infrastructure across communicable disease, chronic disease and substance use, maternal and child health, and environmental health. Public-facing products forthcoming.
