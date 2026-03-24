@@ -1,0 +1,9 @@
+=============================================================
+  PIPELINE TEST OUTPUT VALIDATION
+  Run date:   2026-03-23 19:47:15
+  Dummy year: 2050
+  Result:     ALL CHECKS PASSED
+=============================================================
+
+  Pipeline is ready for live run.
+  Set test_mode <- FALSE in pipeline_run.R to go live.

@@ -1,0 +1,11 @@
+=============================================================
+  PIPELINE TEST OUTPUT VALIDATION
+  Run date:   2026-03-23 19:38:32
+  Dummy year: 2050
+  Result:     1 FAILURE(S) FOUND
+=============================================================
+
+  Failures:
+    [FAIL] Dummy year 2050 NOT found in test master: wic_gts_kpi.csv
+
+  DO NOT flip test_mode = FALSE until all failures are resolved.

@@ -1,0 +1,7 @@
+output_csv_filename ,csv_field_name,raw_value,clean_value
+youth_mentors.csv ,mentor_program,MM Youth Enrolled,Mountain Mentor - Youth Enrolled
+youth_mentors.csv ,mentor_program,MM Waiting,Mountain Mentor - Waiting for Adult Mentor
+youth_mentors.csv ,mentor_program,PM Youth Enrolled,Peer Mentor - Youth Enrolled
+youth_mentors.csv ,mentor_program,MM Matched,Mountain Mentor - Matched with an Adult Mentor
+eh_well_water.csv,contaminant_category,High Nitrate (>10ppm),High nitrates
+eh_well_water.csv,contaminant_category,No Contaminants,No contaminates

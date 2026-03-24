@@ -1,0 +1,43 @@
+source_xlsx,source_tab,output_csv_filename
+DEATH.xlsx,Guide,NA
+DEATH.xlsx,Death,NA
+DIS.xlsx,Guide,NA
+DIS.xlsx,Communicable Diseases,NA
+DIS.xlsx,Animal Bites,NA
+DIS.xlsx,Immunizations,NA
+DIS.xlsx,Outbreaks,NA
+EH.xlsx,Guide,NA
+EH.xlsx,Retail,NA
+EH.xlsx,Complaints,NA
+EH.xlsx,Radon,NA
+EH.xlsx,Well Water,NA
+EH.xlsx,Wastewater,NA
+FAM.xlsx,Guide,NA
+FAM.xlsx,Home Visitation,NA
+FAM.xlsx,Playgroup Attendees,NA
+HEARVIS.xlsx,Guide,NA
+HEARVIS.xlsx,Hearing and Vision Screening,NA
+NFP.xlsx,Guide,NA
+NFP.xlsx,NFP Clients and Visits,NA
+NFP.xlsx,Breastfeeding,NA
+NFP.xlsx,Infant Immunizations,NA
+NFP.xlsx,Work,NA
+OPI.xlsx,Guide,NA
+OPI.xlsx,Naloxone,NA
+OPI.xlsx,Medication Takeback,NA
+OPI.xlsx,Overdose,NA
+TOB.xlsx,Guide,NA
+TOB.xlsx,SMS E-Cigarette,NA
+TOB.xlsx,SHS E-Cigarette,NA
+TOB.xlsx,Vapes,NA
+TOB.xlsx,Retail Compliance,NA
+WIC.xlsx,Guide,NA
+WIC.xlsx,WIC,NA
+WIC.xlsx,Baby Cafe,NA
+WIC.xlsx,GTS Metrics,NA
+WIC.xlsx,GTS Produce %,NA
+YOUTH.xlsx,Guide,NA
+YOUTH.xlsx,Mentors,NA
+YOUTH.xlsx,Teen Center,NA
+YOUTH.xlsx,YESS,NA
+YOUTH.xlsx,HKS,NA

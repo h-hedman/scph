@@ -1,0 +1,10 @@
+name: scph_annual_dashboard_status
+title:
+username: scph-analytics
+account: scph-analytics
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16966967
+bundleId: 11751192
+url: https://scph-analytics.shinyapps.io/scph_annual_dashboard_status/
+version: 1

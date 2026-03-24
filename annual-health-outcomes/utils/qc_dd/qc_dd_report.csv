@@ -1,0 +1,33 @@
+dashboard,filename,check_in_dd,check_col_names,check_col_order,check_col_count,expected_cols,actual_cols,missing_cols,extra_cols,order_mismatch,notes
+death,death_top_causes.csv,TRUE,TRUE,TRUE,TRUE,"year, cause_rank, cause_of_death, death_count, population, mortality_rate, age_adjusted_rate, ci_lower, ci_upper","year, cause_rank, cause_of_death, death_count, population, mortality_rate, age_adjusted_rate, ci_lower, ci_upper",NA,NA,NA,OK
+dis,dis_animal.csv,TRUE,TRUE,TRUE,TRUE,"year, animal_bites_reported_investigated","year, animal_bites_reported_investigated",NA,NA,NA,OK
+dis,dis_comm_dis.csv,TRUE,TRUE,TRUE,TRUE,"year, cases_reported_investigated","year, cases_reported_investigated",NA,NA,NA,OK
+dis,dis_imz.csv,TRUE,TRUE,TRUE,TRUE,"year, immunizations_administered","year, immunizations_administered",NA,NA,NA,OK
+dis,dis_outbreak.csv,TRUE,TRUE,TRUE,TRUE,"year, outbreaks_identified","year, outbreaks_identified",NA,NA,NA,OK
+eh,eh_complaints.csv,TRUE,TRUE,TRUE,TRUE,"year, complaints_water_quality, complaints_retail_food, complaints_other","year, complaints_water_quality, complaints_retail_food, complaints_other",NA,NA,NA,OK
+eh,eh_radon.csv,TRUE,TRUE,TRUE,TRUE,"year, radon_metric, radon_value","year, radon_metric, radon_value",NA,NA,NA,OK
+eh,eh_retail.csv,TRUE,TRUE,TRUE,TRUE,"year, inspection_status, inspection_pct, inspection_count, total_inspections, routine_inspections","year, inspection_status, inspection_pct, inspection_count, total_inspections, routine_inspections",NA,NA,NA,OK
+eh,eh_wastewater.csv,TRUE,TRUE,TRUE,TRUE,"year, wastewater_result, wastewater_pct","year, wastewater_result, wastewater_pct",NA,NA,NA,OK
+eh,eh_well_water.csv,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,"SKIPPED — rolling_mean transform, output structure differs from DD input"
+fam,fam_homevisit.csv,TRUE,TRUE,TRUE,TRUE,"year, families_enrolled","year, families_enrolled",NA,NA,NA,OK
+fam,fam_playgroup.csv,TRUE,TRUE,TRUE,TRUE,"year, playgroup_attendees","year, playgroup_attendees",NA,NA,NA,OK
+hearvis,hearvis_screen.csv,TRUE,TRUE,TRUE,TRUE,"year, screening_result, screenings","year, screening_result, screenings",NA,NA,NA,OK
+nfp,nfp_breastfeed.csv,TRUE,TRUE,TRUE,TRUE,"year, region, breastfeeding_metric, percentage","year, region, breastfeeding_metric, percentage",NA,NA,NA,OK
+nfp,nfp_client_visit.csv,TRUE,TRUE,TRUE,TRUE,"year, nfp_metric, value","year, nfp_metric, value",NA,NA,NA,OK
+nfp,nfp_imz.csv,TRUE,TRUE,TRUE,TRUE,"year, region, immunization_rate","year, region, immunization_rate",NA,NA,NA,OK
+nfp,nfp_work.csv,TRUE,TRUE,TRUE,TRUE,"year, region, work_participation_rate","year, region, work_participation_rate",NA,NA,NA,OK
+opi,opi_kits.csv,TRUE,TRUE,TRUE,TRUE,"year, program, naloxone_kits_distributed","year, program, naloxone_kits_distributed",NA,NA,NA,OK
+opi,opi_overdose.csv,TRUE,TRUE,TRUE,TRUE,"year, overdose_type, overdoses","year, overdose_type, overdoses",NA,NA,NA,OK
+opi,opi_takeback.csv,TRUE,TRUE,TRUE,TRUE,"year, program, pounds_collected","year, program, pounds_collected",NA,NA,NA,OK
+tob,tob_retail.csv,TRUE,TRUE,TRUE,TRUE,"year, compliance_checks, retailers_failed","year, compliance_checks, retailers_failed",NA,NA,NA,OK
+tob,tob_shs_ecig.csv,TRUE,TRUE,TRUE,TRUE,"year, location, percentage","year, location, percentage",NA,NA,NA,OK
+tob,tob_sms_ecig.csv,TRUE,TRUE,TRUE,TRUE,"year, location, percentage","year, location, percentage",NA,NA,NA,OK
+tob,tob_vape.csv,TRUE,TRUE,TRUE,TRUE,"year, vapes_collected","year, vapes_collected",NA,NA,NA,OK
+wic,wic_babycafe.csv,TRUE,TRUE,TRUE,TRUE,"year, unique_clients, return_visits","year, unique_clients, return_visits",NA,NA,NA,OK
+wic,wic_gts_kpi.csv,TRUE,TRUE,TRUE,TRUE,"year, gts_metric, value","year, gts_metric, value",NA,NA,NA,OK
+wic,wic_prod_pct.csv,TRUE,TRUE,TRUE,TRUE,"year, produce_type, percentage","year, produce_type, percentage",NA,NA,NA,OK
+wic,wic_wic.csv,TRUE,TRUE,TRUE,TRUE,"year, summit_county_clients, outside_summit_clients","year, summit_county_clients, outside_summit_clients",NA,NA,NA,OK
+youth,youth_hks.csv,TRUE,TRUE,TRUE,TRUE,"year, shs_pct, sms_pct","year, shs_pct, sms_pct",NA,NA,NA,OK
+youth,youth_mentors.csv,TRUE,TRUE,TRUE,TRUE,"year, mentor_program, count","year, mentor_program, count",NA,NA,NA,OK
+youth,youth_teen_center.csv,TRUE,TRUE,TRUE,TRUE,"year, youth_visits","year, youth_visits",NA,NA,NA,OK
+youth,youth_yess.csv,TRUE,TRUE,TRUE,TRUE,"year, yess_attendance","year, yess_attendance",NA,NA,NA,OK

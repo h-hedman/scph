@@ -1,0 +1,33 @@
+dashboard,source_tab,output_csv,most_recent_year,status
+eh,Retail,eh_retail.csv,2023,Red
+eh,Complaints,eh_complaints.csv,2023,Red
+eh,Radon,eh_radon.csv,2023,Red
+eh,Wastewater,eh_wastewater.csv,2022,Red
+death,Death,death_top_causes.csv,2024,Yellow
+opi,Naloxone,opi_kits.csv,2025,Green
+opi,Medication Takeback,opi_takeback.csv,2025,Green
+opi,Overdose,opi_overdose.csv,2024,Yellow
+dis,Communicable Diseases,dis_comm_dis.csv,2025,Green
+dis,Animal Bites,dis_animal.csv,2025,Green
+dis,Immunizations,dis_imz.csv,2025,Green
+dis,Outbreaks,dis_outbreak.csv,2025,Green
+hearvis,Hearing and Vision Screening,hearvis_screen.csv,2025,Green
+fam,Home Visitation,fam_homevisit.csv,2024,Yellow
+fam,Playgroup Attendees,fam_playgroup.csv,2024,Yellow
+youth,Mentors,youth_mentors.csv,2024,Yellow
+youth,Teen Center,youth_teen_center.csv,2024,Yellow
+youth,YESS,youth_yess.csv,2024,Yellow
+youth,HKS,youth_hks.csv,2023,Red
+tob,Retail Compliance,tob_retail.csv,2024,Yellow
+tob,Vapes,tob_vape.csv,2024,Yellow
+tob,SMS E-Cigarette,tob_sms_ecig.csv,2023,Red
+tob,SHS E-Cigarette,tob_shs_ecig.csv,2023,Red
+wic,WIC,wic_wic.csv,2024,Yellow
+wic,Baby Cafe,wic_babycafe.csv,2024,Yellow
+wic,GTS Metrics,wic_gts_kpi.csv,2024,Yellow
+wic,GTS Produce %,wic_prod_pct.csv,2024,Yellow
+nfp,NFP Clients and Visits,nfp_client_visit.csv,2024,Yellow
+nfp,Breastfeeding,nfp_breastfeed.csv,2024,Yellow
+nfp,Work,nfp_work.csv,2024,Yellow
+nfp,Infant Immunizations,nfp_imz.csv,2024,Yellow
+eh,Well Water,eh_well_water.csv,2022,Red

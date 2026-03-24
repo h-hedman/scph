@@ -1,0 +1,103 @@
+source_xlsx,source_tab,input_col_num,csv_field_name,output_csv_filename,field_type,pbi,pbi_visual_target,pct,req_transform,transform_type,notes
+EH.xlsx,Retail,1,year,eh_retail.csv,year,eh,stacked bar graph,FALSE,FALSE,,5yr filter
+EH.xlsx,Retail,2,inspection_status,eh_retail.csv,character,eh,stacked bar graph,FALSE,FALSE,,Pass / Re-Inspection Required / Closed
+EH.xlsx,Retail,3,inspection_pct,eh_retail.csv,float,eh,stacked bar graph,TRUE,FALSE,,
+EH.xlsx,Retail,4,inspection_count,eh_retail.csv,integer,eh,stacked bar graph,FALSE,FALSE,,
+EH.xlsx,Retail,5,total_inspections,eh_retail.csv,integer,eh,stacked bar graph,FALSE,FALSE,,Same value repeated per status row
+EH.xlsx,Retail,6,routine_inspections,eh_retail.csv,integer,eh,stacked bar graph,FALSE,FALSE,,Same value repeated per status row
+EH.xlsx,Complaints,1,year,eh_complaints.csv,year,eh,stacked bar graph,FALSE,FALSE,,5yr filter
+EH.xlsx,Complaints,2,complaints_water_quality,eh_complaints.csv,integer,eh,stacked bar graph,FALSE,FALSE,,
+EH.xlsx,Complaints,3,complaints_retail_food,eh_complaints.csv,integer,eh,stacked bar graph,FALSE,FALSE,,
+EH.xlsx,Complaints,4,complaints_other,eh_complaints.csv,integer,eh,stacked bar graph,FALSE,FALSE,,
+EH.xlsx,Radon,1,year,eh_radon.csv,year,eh,stacked bar graph,FALSE,TRUE,single_year,Single year only
+EH.xlsx,Radon,2,radon_metric,eh_radon.csv,character,eh,table,FALSE,TRUE,single_year,Median / Max / Pct above 4.0 / Total tests
+EH.xlsx,Radon,3,radon_value,eh_radon.csv,numeric,eh,table,FALSE,TRUE,single_year,"Staff-entered, R passthrough"
+EH.xlsx,Wastewater,1,year,eh_wastewater.csv,year,eh,stacked bar graph,FALSE,FALSE,,
+EH.xlsx,Wastewater,2,wastewater_result,eh_wastewater.csv,character,eh,stacked bar graph,FALSE,FALSE,,
+EH.xlsx,Wastewater,3,wastewater_pct,eh_wastewater.csv,float,eh,stacked bar graph,TRUE,FALSE,,
+DEATH.xlsx,Death,1,year,death_top_causes.csv,year,death,TBD,FALSE,FALSE,,5yr filter
+DEATH.xlsx,Death,2,cause_rank,death_top_causes.csv,integer,death,TBD,FALSE,FALSE,,
+DEATH.xlsx,Death,3,cause_of_death,death_top_causes.csv,character,death,TBD,FALSE,FALSE,,"State-supplied labels, keep as-is"
+DEATH.xlsx,Death,4,death_count,death_top_causes.csv,integer,death,TBD,FALSE,FALSE,,
+DEATH.xlsx,Death,5,population,death_top_causes.csv,integer,death,TBD,FALSE,FALSE,,Commas in raw ? strip on ingest
+DEATH.xlsx,Death,6,mortality_rate,death_top_causes.csv,numeric,death,TBD,FALSE,FALSE,,Per 100k
+DEATH.xlsx,Death,7,age_adjusted_rate,death_top_causes.csv,numeric,death,TBD,FALSE,FALSE,,
+DEATH.xlsx,Death,8,ci_lower,death_top_causes.csv,numeric,death,TBD,FALSE,FALSE,,95% CI lower bound
+DEATH.xlsx,Death,9,ci_upper,death_top_causes.csv,numeric,death,TBD,FALSE,FALSE,,95% CI upper bound
+OPI.xlsx,Naloxone,1,year,opi_kits.csv,year,opi,bar graph,FALSE,FALSE,,YYYY format
+OPI.xlsx,Naloxone,2,program,opi_kits.csv,character,opi,bar graph,FALSE,FALSE,,Static label ? Naloxone Kits Distributed
+OPI.xlsx,Naloxone,3,naloxone_kits_distributed,opi_kits.csv,integer,opi,bar graph,FALSE,FALSE,,No commas on entry
+OPI.xlsx,Medication Takeback,1,year,opi_takeback.csv,year,opi,bar graph,FALSE,FALSE,,YYYY format
+OPI.xlsx,Medication Takeback,2,program,opi_takeback.csv,character,opi,bar graph,FALSE,FALSE,,Static label ? Medication Take-Back
+OPI.xlsx,Medication Takeback,3,pounds_collected,opi_takeback.csv,integer,opi,bar graph,FALSE,FALSE,,No commas on entry
+OPI.xlsx,Overdose,1,year,opi_overdose.csv,year,opi,multi line graph,FALSE,FALSE,,YYYY format; source CDPHE Vital Statistics
+OPI.xlsx,Overdose,2,overdose_type,opi_overdose.csv,character,opi,multi line graph,FALSE,FALSE,,Must match exactly: Total drug overdoses / Opioid-involved drug overdoses / Fentanyl-involved drug overdoses
+OPI.xlsx,Overdose,3,overdoses,opi_overdose.csv,integer,opi,multi line graph,FALSE,FALSE,,No commas on entry
+DIS.xlsx,Communicable Diseases,1,year,dis_comm_dis.csv,year,dis,bar graph,FALSE,FALSE,,YYYY format
+DIS.xlsx,Communicable Diseases,2,cases_reported_investigated,dis_comm_dis.csv,integer,dis,bar graph,FALSE,FALSE,,No commas on entry
+DIS.xlsx,Animal Bites,1,year,dis_animal.csv,year,dis,bar graph,FALSE,FALSE,,YYYY format
+DIS.xlsx,Animal Bites,2,animal_bites_reported_investigated,dis_animal.csv,integer,dis,bar graph,FALSE,FALSE,,No commas on entry
+DIS.xlsx,Immunizations,1,year,dis_imz.csv,year,dis,bar graph,FALSE,FALSE,,YYYY format
+DIS.xlsx,Immunizations,2,immunizations_administered,dis_imz.csv,integer,dis,bar graph,FALSE,FALSE,,No commas on entry
+DIS.xlsx,Outbreaks,1,year,dis_outbreak.csv,year,dis,bar graph,FALSE,FALSE,,YYYY format
+DIS.xlsx,Outbreaks,2,outbreaks_identified,dis_outbreak.csv,integer,dis,bar graph,FALSE,FALSE,,No commas on entry
+HEARVIS.xlsx,Hearing and Vision Screening,1,year,hearvis_screen.csv,year,hearvis,stacked bar chart,FALSE,FALSE,,YYYY format
+HEARVIS.xlsx,Hearing and Vision Screening,2,screening_result,hearvis_screen.csv,character,hearvis,stacked bar chart,FALSE,FALSE,,Must match exactly: Total Passed / Total Referred
+HEARVIS.xlsx,Hearing and Vision Screening,3,screenings,hearvis_screen.csv,integer,hearvis,stacked bar chart,FALSE,FALSE,,No commas on entry
+FAM.xlsx,Home Visitation,1,year,fam_homevisit.csv,year,fam,bar graph,FALSE,FALSE,,YYYY format
+FAM.xlsx,Home Visitation,2,families_enrolled,fam_homevisit.csv,integer,fam,bar graph,FALSE,FALSE,,No commas on entry
+FAM.xlsx,Playgroup Attendees,1,year,fam_playgroup.csv,year,fam,bar graph,FALSE,FALSE,,YYYY format
+FAM.xlsx,Playgroup Attendees,2,playgroup_attendees,fam_playgroup.csv,integer,fam,bar graph,FALSE,FALSE,,"No commas on entry; only enter years where data was collected ? 2022 excluded, no data"
+YOUTH.xlsx,Mentors,1,year,youth_mentors.csv,year,youth,bottom right bar,FALSE,FALSE,,YYYY format
+YOUTH.xlsx,Mentors,2,mentor_program,youth_mentors.csv,character,youth,bottom right bar,FALSE,TRUE,recode,"Must match exactly: Mountain Mentor - Youth Enrolled
+Peer Mentor - Youth Enrolled
+Mountain Mentor - Matched with an Adult Mentor"
+YOUTH.xlsx,Mentors,3,count,youth_mentors.csv,integer,youth,bottom right bar,FALSE,FALSE,,No commas on entry; recode to clean labels in R before PBI ingestion
+YOUTH.xlsx,Teen Center,1,year,youth_teen_center.csv,year,youth,top right bar,FALSE,FALSE,,YYYY format
+YOUTH.xlsx,Teen Center,2,youth_visits,youth_teen_center.csv,integer,youth,top right bar,FALSE,FALSE,,No commas on entry
+YOUTH.xlsx,YESS,1,year,youth_yess.csv,year,youth,bottom left bar,FALSE,FALSE,,YYYY format
+YOUTH.xlsx,YESS,2,yess_attendance,youth_yess.csv,integer,youth,bottom left bar,FALSE,FALSE,,No commas on entry
+YOUTH.xlsx,HKS,1,year,youth_hks.csv,year,youth,top left 2-bar,FALSE,FALSE,,YYYY format; biennial data only ? do not interpolate missing years
+YOUTH.xlsx,HKS,2,shs_pct,youth_hks.csv,float,youth,top left 2-bar,TRUE,FALSE,,"Enter as decimal without % sign (e.g., 84.70); divide by 100 in R"
+YOUTH.xlsx,HKS,3,sms_pct,youth_hks.csv,float,youth,top left 2-bar,TRUE,FALSE,,"Enter as decimal without % sign (e.g., 84.80); divide by 100 in R"
+TOB.xlsx,Retail Compliance,1,year,tob_retail.csv,year,tob,top left bar,FALSE,FALSE,,YYYY format
+TOB.xlsx,Retail Compliance,2,compliance_checks,tob_retail.csv,integer,tob,top left bar,FALSE,FALSE,,No commas on entry
+TOB.xlsx,Retail Compliance,3,retailers_failed,tob_retail.csv,integer,tob,mid left bar,FALSE,FALSE,,No commas on entry
+TOB.xlsx,Vapes,1,year,tob_vape.csv,year,tob,bottom left bar,FALSE,FALSE,,YYYY format
+TOB.xlsx,Vapes,2,vapes_collected,tob_vape.csv,integer,tob,bottom left bar,FALSE,FALSE,,No commas on entry
+TOB.xlsx,SMS E-Cigarette,1,year,tob_sms_ecig.csv,year,tob,top right line,FALSE,FALSE,,YYYY format; biennial data only
+TOB.xlsx,SMS E-Cigarette,2,location,tob_sms_ecig.csv,character,tob,top right line,FALSE,FALSE,,Must match exactly: Summit Middle School / Colorado
+TOB.xlsx,SMS E-Cigarette,3,percentage,tob_sms_ecig.csv,float,tob,top right line,TRUE,FALSE,,"Enter without % sign (e.g., 5.70); divide by 100 in R"
+TOB.xlsx,SHS E-Cigarette,1,year,tob_shs_ecig.csv,year,tob,bottom right line,FALSE,FALSE,,YYYY format; biennial data only
+TOB.xlsx,SHS E-Cigarette,2,location,tob_shs_ecig.csv,character,tob,bottom right line,FALSE,FALSE,,Must match exactly: Summit High School / Colorado
+TOB.xlsx,SHS E-Cigarette,3,percentage,tob_shs_ecig.csv,float,tob,bottom right line,FALSE,FALSE,,"Enter without % sign (e.g., 40.60); divide by 100 in R"
+WIC.xlsx,WIC,1,year,wic_wic.csv,year,wic,upper left stacked bar,FALSE,FALSE,,YYYY format
+WIC.xlsx,WIC,2,summit_county_clients,wic_wic.csv,integer,wic,upper left stacked bar,FALSE,FALSE,,No commas on entry
+WIC.xlsx,WIC,3,outside_summit_clients,wic_wic.csv,integer,wic,upper left stacked bar,FALSE,FALSE,,No commas on entry
+WIC.xlsx,Baby Cafe,1,year,wic_babycafe.csv,year,wic,bottom left bar,FALSE,FALSE,,YYYY format
+WIC.xlsx,Baby Cafe,2,unique_clients,wic_babycafe.csv,integer,wic,bottom left bar,FALSE,FALSE,,No commas on entry
+WIC.xlsx,Baby Cafe,3,return_visits,wic_babycafe.csv,integer,wic,bottom right bar,FALSE,FALSE,,No commas on entry
+WIC.xlsx,GTS Metrics,1,year,wic_gts_kpi.csv,year,wic,top right bar,FALSE,FALSE,,YYYY format
+WIC.xlsx,GTS Metrics,2,gts_metric,wic_gts_kpi.csv,integer,wic,top right bar,FALSE,FALSE,,"No commas or $ sign on entry (e.g., 14962), total_produce_value"
+WIC.xlsx,GTS Metrics,3,value,wic_gts_kpi.csv,integer,wic,top right bar,FALSE,FALSE,,No commas on entry
+WIC.xlsx,GTS Produce %,1,year,wic_prod_pct.csv,year,wic,pie chart,TRUE,FALSE,,YYYY format
+WIC.xlsx,GTS Produce %,2,produce_type,wic_prod_pct.csv,character,wic,pie chart,TRUE,FALSE,,Must match exactly: Herbs & Garlic / Bunched Greens / Carrots / Baby Greens / Peas & Broccoli / Summer Produce / Potatoes & Beets / Radishes & Turnips
+WIC.xlsx,GTS Produce %,3,percentage,wic_prod_pct.csv,float,wic,pie chart,TRUE,FALSE,,"Enter as decimal without % sign (e.g., 6.40); divide by 100 in R"
+NFP.xlsx,NFP Clients and Visits,1,year,nfp_client_visit.csv,year,nfp,left bar,FALSE,FALSE,,YYYY format
+NFP.xlsx,NFP Clients and Visits,2,nfp_metric,nfp_client_visit.csv,character,nfp,left bar,FALSE,FALSE,,Must match exactly: Clients / Visits
+NFP.xlsx,NFP Clients and Visits,3,value,nfp_client_visit.csv,integer,nfp,left bar,FALSE,FALSE,,No commas on entry
+NFP.xlsx,Breastfeeding,1,year,nfp_breastfeed.csv,year,nfp,center bar,FALSE,FALSE,,YYYY format
+NFP.xlsx,Breastfeeding,2,region,nfp_breastfeed.csv,character,nfp,center bar,FALSE,FALSE,,Must match exactly: Summit / CO
+NFP.xlsx,Breastfeeding,3,breastfeeding_metric,nfp_breastfeed.csv,character,nfp,center bar,FALSE,FALSE,,Must match exactly: At Birth / At 6 months
+NFP.xlsx,Breastfeeding,4,percentage,nfp_breastfeed.csv,float,nfp,center bar,TRUE,FALSE,,"Enter without % sign (e.g., 93.50); divide by 100 in R"
+NFP.xlsx,Work,1,year,nfp_work.csv,year,nfp,top right double bar,FALSE,FALSE,,YYYY format
+NFP.xlsx,Work,2,region,nfp_work.csv,character,nfp,top right double bar,FALSE,FALSE,,Must match exactly: Summit / CO
+NFP.xlsx,Work,3,work_participation_rate,nfp_work.csv,float,nfp,top right double bar,TRUE,FALSE,,"Enter without % sign (e.g., 72.00); divide by 100 in R"
+NFP.xlsx,Infant Immunizations,1,year,nfp_imz.csv,year,nfp,bottom right double bar,FALSE,FALSE,,YYYY format
+NFP.xlsx,Infant Immunizations,2,region,nfp_imz.csv,character,nfp,bottom right double bar,FALSE,FALSE,,Must match exactly: Summit / CO
+NFP.xlsx,Infant Immunizations,3,immunization_rate,nfp_imz.csv,float,nfp,bottom right double bar,TRUE,FALSE,,"Enter without % sign (e.g., 88.90); divide by 100 in R"
+EH.xlsx,Well Water,1,year,eh_well_water.csv,year,eh,donut chart,FALSE,FALSE,,
+EH.xlsx,Well Water,2,contaminant_category,eh_well_water.csv,character,eh,donut chart,FALSE,FALSE,,Allowed: Bacteria / High nitrates / No contaminates
+EH.xlsx,Well Water,3,test_count,eh_well_water.csv,integer,eh,donut chart,FALSE,FALSE,,
+EH.xlsx,Well Water,4,pct_annual_tests,eh_well_water.csv,float,eh,donut chart,TRUE,TRUE,rolling_mean,Mean across ó5 most recent years. Output renamed to avg_result in current_processed.
+EH.xlsx,Well Water,5,annual_total_tests,eh_well_water.csv,integer,eh,donut chart,FALSE,FALSE,,Same value repeated per category row per year
